@@ -76,17 +76,6 @@ h1 ping h3
 * Logs show ALLOWED / BLOCKED
 
 ---
-
-## 📸 Proof of Execution
-
-Screenshots included:
-
-* Mininet ping results
-* Controller logs
-* Flow table entries
-
----
-
 ## 🎯 Conclusion
 
 This project demonstrates centralized access control using SDN. The controller dynamically enforces policies using match-action flow rules.
